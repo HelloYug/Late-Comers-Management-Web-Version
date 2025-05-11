@@ -1,0 +1,19 @@
+WebApp/
+├── app.py
+├── models.py
+├── email_utils.py
+├── utils.py
+├── requirements.txt
+├── .env.example
+├── README.md
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── analytics.html
+├── static/
+│   ├── css/
+│   │   └── bootstrap.min.css
+│   ├── js/
+│   │   └── bootstrap.bundle.min.js
+│   ├── charts/  (for saving generated analytics images)
