@@ -46,6 +46,7 @@ WebApp/
 │   ├── login.html
 │   ├── dashboard.html
 │   ├── analytics.html
+│   ├── index.html
 ├── static/
 │   ├── css/
 │   │   └── bootstrap.min.css
