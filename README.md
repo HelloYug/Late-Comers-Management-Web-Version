@@ -129,6 +129,9 @@ WebApp/
 ## 👨‍💻 Author
 
 **Yug Agarwal**
-- 📧 [yugagarwal704@gmail.com](mailto:yugagarwal704@gmail.com)
-- 🔗 GitHub – [@HelloYug](https://github.com/HelloYug)
+
+* 📧 Email – [yugagarwal704@gmail.com](mailto:yugagarwal704@gmail.com)
+* 🔗 GitHub – [@HelloYug](https://github.com/HelloYug)
+* 💼 LinkedIn – [yugagarwal704](https://www.linkedin.com/in/yugagarwal704/)
+* 🌐 Website – [yugagarwal.dev](https://yugagarwal.dev/?utm_source=github&utm_medium=readme&utm_campaign=Web_Version_readme)
 
